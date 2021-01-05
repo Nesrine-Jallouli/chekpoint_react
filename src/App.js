@@ -4,10 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="container">
-      <h1>Formulaire d'inscription </h1>
+      <h1>Formulaire d'inscription  </h1>
 <form class="row g-3 needs-validation" novalidate>
   <div class="input-group">
-    <span class="input-group-text">First and last name</span>
+    <span class="input-group-text">First and Last Name</span>
     <input type="text" aria-label="First name" class="form-control" id="validationCustom01"required/>
     <input type="text" aria-label="Last name" class="form-control" id="validationCustom01"required/>
   </div>
